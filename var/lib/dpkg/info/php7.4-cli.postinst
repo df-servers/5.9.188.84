@@ -20,7 +20,7 @@ if [ "$1" = "configure" ]; then
     else
 	ucf /usr/lib/php/7.4/php.ini-production $phpini
     fi
-    # 2023-08-23 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+    # 2023-08-23 Dmitrii Fediuk https://github.com/dmitrii-fediuk
     # 1) «ucfr: Attempt from package php7.4-fpm to take /etc/php/7.4/common/php.ini away from package php7.4-cli»:
     # https://github.com/dmitrii-fediuk/5.9.188.84/issues/16
     # 2) "How did I fix

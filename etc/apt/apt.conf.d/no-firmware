@@ -1,4 +1,4 @@
-// 2024-07-17 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+// 2024-07-17 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 // 1) https://linux.die.net/man/5/apt.conf
 // 2.1) «N: Repository 'Debian bookworm' changed its 'non-free component' value from 'non-free' to 'non-free non-free-firmware'»:
 // https://github.com/dmitrii-fediuk/5.9.188.84/issues/78

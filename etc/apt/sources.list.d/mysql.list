@@ -1,7 +1,7 @@
 ### THIS FILE IS AUTOMATICALLY CONFIGURED ###
 # You may comment out entries below, but any other modifications may be lost.
 # Use command 'dpkg-reconfigure mysql-apt-config' as root for modifications.
-# 2023-08-07 Dmitrii Fediuk https://www.upwork.com/fl/mage2pro
+# 2023-08-07 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 # 1) "«The detected system (debian jessie) is not supported by MySQL»
 # on `dpkg-reconfigure mysql-apt-config` on Debian10 (Buster)": https://github.com/dmitrii-fediuk/5.9.188.84/issues/5
 # 2) https://df.tips/t/1837
